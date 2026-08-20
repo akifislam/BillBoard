@@ -1,12 +1,12 @@
 {
   "marquee": {
-    "enabled": false,
+    "enabled": true,
     "text": "আপনার অভিযোগ টিউশন এখানে যোগ করে আয় করুন",
     "click_url": ""
   },
 
   "advertisement": {
-    "enabled": false,
+    "enabled": true,
     "id": "tutor_connect_001",
     "image_url": "https://akifislam.github.io/BillBoard/ads/tutor_connect.webp",
     "click_url": "https://example.com/tutor-connect",
