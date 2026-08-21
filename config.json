@@ -1,12 +1,12 @@
 {
   "marquee": {
-    "enabled": true,
+    "enabled": false,
     "text": "আর হঠাৎ বিদ্যুৎ বন্ধ নয় — আগে থেকেই জানুন Balance!",
     "click_url": "https://www.facebook.com/butterflydevs"
   },
 
   "advertisement": {
-    "enabled": true,
+    "enabled": false,
     "id": "billboard2",
     "image_url": "https://akifislam.github.io/BillBoard/ads/billboard2.webp",
     "click_url": "https://www.facebook.com/butterflydevs",
