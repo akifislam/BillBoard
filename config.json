@@ -1,15 +1,15 @@
 {
   "marquee": {
-    "enabled": false,
-    "text": "আপনার অভিযোগ টিউশন এখানে যোগ করে আয় করুন",
-    "click_url": ""
+    "enabled": true,
+    "text": "আর হঠাৎ বিদ্যুৎ বন্ধ নয় — আগে থেকেই জানুন Balance!",
+    "click_url": "https://www.facebook.com/butterflydevs"
   },
 
   "advertisement": {
-    "enabled": false,
-    "id": "tutor_connect_001",
-    "image_url": "https://akifislam.github.io/BillBoard/ads/tutor_connect.webp",
-    "click_url": "https://example.com/tutor-connect",
+    "enabled": true,
+    "id": "billboard1",
+    "image_url": "https://akifislam.github.io/BillBoard/ads/billboard.webp",
+    "click_url": "https://www.facebook.com/butterflydevs",
     "start_date": "",
     "end_date": ""
   }
